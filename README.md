@@ -1,5 +1,5 @@
 # Unbeatable TicTacToe Game
-> This is a simple tic-tac-toe game that uses the mini-max algorithm as an AI player against the human player so it never loses.
+This is a simple tic-tac-toe game that uses the mini-max algorithm as an AI player against the human player so it never loses.
 
 ## Minimax Algorithm
 In real life, a human would think of all the possible consequences for each move. This is where the minimax algorithm comes handy.
