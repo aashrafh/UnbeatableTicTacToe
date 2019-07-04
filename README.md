@@ -12,4 +12,4 @@ The algorithm evaluates the moves that lead to a terminal state based on the pla
 ![Demo](https://s3.gifyu.com/images/InteractiveDictionarydfa13c2407c324a9.md.gif)
 
 ## Inspiration
-This implementation of the Mini-Max Algorithms based on the following tutorial: [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37/)
+This implementation of the Mini-Max Algorithm based on the following tutorial: [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37/)
